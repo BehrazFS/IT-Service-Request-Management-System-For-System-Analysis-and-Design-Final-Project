@@ -47,15 +47,5 @@ The **IT Service Request Management System** facilitates interactions between us
 * UI Prototyping Tools
 * Backend and frontend technologies (as implemented)
 
-
-## 📄 Documentation
-
-The repository includes:
-
-* UML diagrams
-* Mockups and wireframes
-* Source code (first and final prototypes)
-* User and installation manuals
-
 ## Team members: 
 Mentioned in the file
